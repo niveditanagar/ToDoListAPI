@@ -2,13 +2,23 @@
   "todos": [
     { 
         "id": 1,
-        "task": "Learn Express.js",
+        "task": "go to gym",
         "completed": false
     },
     {
         "id": 2,
-        "task": "Use the fs module",
+        "task": "eat lunch",
         "completed": true
+    },
+    {
+        "id": 3,
+        "task": "read a book",
+        "completed": false
+    },
+        {
+        "id": 4,
+        "task": "go for a walk",
+        "completed": false
     }
   ]
 }
