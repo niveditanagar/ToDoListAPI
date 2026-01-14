@@ -1,0 +1,14 @@
+{
+  "todos": [
+    { 
+        "id": 1,
+        "task": "Learn Express.js",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "task": "Use the fs module",
+        "completed": true
+    }
+  ]
+}
