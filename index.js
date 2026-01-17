@@ -25,4 +25,4 @@ app.post('/todos', (req, res) => {
 
 app.delete('/todos/:id', (req, res) => {
     res.status(204).send()
-})
+}) 
