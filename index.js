@@ -14,7 +14,7 @@ app.get('/todos', (req, res) => {
 app.post('/todos', (req, res) => {
     const newTodo = {
         id: 5,
-        title: 'take a nap',
+        text: 'take a nap',
         completed: false
     }
 

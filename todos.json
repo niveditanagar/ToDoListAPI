@@ -2,22 +2,22 @@
   "todos": [
     {
       "id": 1,
-      "task": "go to gym",
+      "text": "go to gym",
       "completed": false
     },
     {
       "id": 2,
-      "task": "eat lunch",
+      "text": "eat lunch",
       "completed": true
     },
     {
       "id": 3,
-      "task": "read a book",
+      "text": "read a book",
       "completed": false
     },
     {
       "id": 4,
-      "task": "go for a walk",
+      "text": "go for a walk",
       "completed": false
     }
   ]
